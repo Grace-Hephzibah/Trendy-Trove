@@ -1,5 +1,5 @@
 # Trendy-Trove
-Trendy Trove: Store 🛒 &amp; Style ✨ Recommender
+Trendy Trove: Store 🛒 &amp; Style ✨ Generator 
 
 # About:
 This project aims to empower users to become creative entrepreneurs by enabling them to effortlessly create new 
